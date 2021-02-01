@@ -148,7 +148,7 @@ button {
 .slider {
     all: unset;
     background-color: transparent;
-    border-radius: 0.75em;
+    border-radius: 1em;
     box-shadow: -0.1em -0.1em 0.1em hsl(228, 9.8%, 63%) inset,
         0.1em 0.1em 0.1em hsl(228, 9.8%, 100%) inset;
     cursor: pointer;
